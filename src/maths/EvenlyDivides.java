@@ -11,7 +11,7 @@ public class EvenlyDivides {
         // initialize the counter
         int newValue = N;
         int count = 0;
-        //loop through n to get each digit.
+        //loop through n to get each digit.g
         while (newValue > 0) {
             // for each digit, compare to see if mod division eq 0
             int singleValue = newValue % 10;
